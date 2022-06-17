@@ -9,7 +9,7 @@ sudo apt install xdotool
 
 you can look for other installation methods [here](https://github.com/jordansissel/xdotool#installation=).
 
-##using the auto-clicker:
+## using the auto-clicker:
 
 1. First you have to _clone_ the bash script or simply copy and past it to a file.
 2. Give the file the necessary permissions:
